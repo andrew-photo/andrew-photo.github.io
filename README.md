@@ -1,2 +1,2 @@
-# andrew-photo.github.io
-Andrew Nguyen Photography
+# AndrewNgPhoto
+ Andrew Nguyen Photography
