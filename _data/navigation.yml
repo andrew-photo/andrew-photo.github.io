@@ -1,4 +1,4 @@
-logo_image: '/images/logo.svg' # You can add own logo. For example '/images/logo.png'.
+logo_image: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
 
 menu__settings:
   menu__items:
@@ -8,9 +8,9 @@ menu__settings:
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Pages'
+    - title: 'About'
       submenu:
       - url: '/about/'
-        title: 'About'
+        title: 'About Me'
       - url: '/elements/'
         title: 'Photography Gear'
